@@ -1088,7 +1088,7 @@ topnav.html
 
 - **Module Dependencies**: The application root module depends on the app specific feature modules, the feature modules have no direct dependencies, the cross-application modules depend on all generic modules.
 
-![Modularity and Dependencies](https://raw.githubusercontent.com/johnpapa/angularjs-styleguide/master/assets/modularity-1.png)
+![Modularity and Dependencies](https://github.com/PointSource/angularjs-styleguide-public/tree/master/assets/modularity-1.png)
 
 *Why?*: The main app module contains a quickly identifiable manifest of the application's features. 
 
